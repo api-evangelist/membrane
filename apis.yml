@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Integrations
   - AI
   - API Gateway
   - Automation
+  - Integrations
   - No-Code
 url: >-
   https://raw.githubusercontent.com/api-evangelist/membrane/refs/heads/main/apis.yml
@@ -27,8 +27,8 @@ apis:
       packages and is compatible with AI coding assistants via MCP protocol.
     humanURL: https://getmembrane.com/
     tags:
-      - Integrations
       - AI
+      - Integrations
       - MCP
     properties:
       - type: Documentation
