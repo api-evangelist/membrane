@@ -33,14 +33,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.membrane.io/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://getmembrane.com/articles/all/membrane-core-start-building-product-integrations-for-free
 common:
   - type: Portal
     url: https://getmembrane.com/
   - type: Documentation
     url: https://docs.membrane.io/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/membrane-io
   - type: Pricing
     url: https://getmembrane.com/pricing
