@@ -44,6 +44,8 @@ common:
     url: https://github.com/membrane-io
   - type: Pricing
     url: https://getmembrane.com/pricing
+  - type: LLMsTxt
+    url: https://docs.membrane.io/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
