@@ -38,6 +38,10 @@ apis:
   - url: graphql/membrane-graphql.md
     type: GraphQL
 common:
+- type: TrustCenter
+  url: security/membrane-trust-center.yml
+- type: DomainSecurity
+  url: security/membrane-domain-security.yml
 - type: Portal
   url: https://getmembrane.com/
 - type: Documentation
@@ -48,6 +52,8 @@ common:
   url: https://getmembrane.com/pricing
 - type: LlmsText
   url: https://docs.membrane.io/llms.txt
+- url: https://getmembrane.com/articles/all
+  type: Blog
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
