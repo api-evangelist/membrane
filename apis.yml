@@ -20,6 +20,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/membrane.png
 tags:
+- Artificial Intelligence
+- API Gateway
+- Automation
+- Integration
+- No-Code
+tags_raw:
 - AI
 - API Gateway
 - Automation
@@ -39,6 +45,10 @@ apis:
     packages and is compatible with AI coding assistants via MCP protocol.
   humanURL: https://getmembrane.com/
   tags:
+  - Artificial Intelligence
+  - Integration
+  - MCP
+  tags_raw:
   - AI
   - Integrations
   - MCP
