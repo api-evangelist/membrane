@@ -68,8 +68,6 @@ apis:
     url: https://docs.membrane.io/
   - type: GettingStarted
     url: https://getmembrane.com/articles/all/membrane-core-start-building-product-integrations-for-free
-  - url: graphql/membrane-graphql.md
-    type: GraphQL
 common:
 - type: TrustCenter
   url: security/membrane-trust-center.yml
