@@ -1,4 +1,4 @@
-# Membrane (membrane)
+# Membrane
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,49 +66,80 @@
 
 Membrane is an AI-powered platform for building product integrations using natural language. It connects to any API with 282+ pre-built packages and is compatible with AI coding assistants via MCP. There is also a separate open source Membrane API Gateway for REST, SOAP, and GraphQL.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/membrane/refs/heads/main/apis.yml)
+**Areas:** Artificial Intelligence · API Gateway · Automation · Integration · No-Code
 
-## Scope
+## Membrane on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Membrane is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/membrane/](https://apis.io/providers/membrane/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Integrations, AI, API Gateway, Automation, No-Code
+- [Membrane Integration Platform](https://apis.io/apis/membrane/membrane-platform/) — Membrane is an AI-first integration platform that enables building product integrations using natural language. It offers 282+ pre-built packages and is…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### GraphQL (1)
 
-### Membrane Integration Platform
-Membrane is an AI-first integration platform that enables building product integrations using natural language. It offers 282+ pre-built packages and is compatible with AI coding assistants via MCP protocol.
+GraphQL schemas.
 
-**Human URL:** [https://getmembrane.com/](https://getmembrane.com/)
+- [Moved to /providers/membrane/](https://apis.io/graphqls/membrane/membrane-graphql/)
 
+#### MCP servers (1)
 
-#### Tags:
+Model Context Protocol servers that expose the API to agents.
 
- - Integrations, AI, MCP
+- [membrane](https://apis.io/servers/membrane/membrane/)
 
-#### Properties
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Membrane Domain Security](https://apis.io/security/membrane/membrane-domain-security/)
+- [Membrane Trust Center](https://apis.io/security/membrane/membrane-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Membrane Plans Pricing](https://apis.io/plans/membrane/membrane-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Membrane Rate Limits](https://apis.io/rate-limits/membrane/membrane-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Membrane Finops](https://apis.io/finops/membrane/membrane-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Documentation](https://docs.membrane.io/)
-- [Getting Started](https://getmembrane.com/articles/all/membrane-core-start-building-product-integrations-for-free)
-
-## Common Properties
-
-- [Portal](https://getmembrane.com/)
-- [Documentation](https://docs.membrane.io/)
-- [GitHub Organization](https://github.com/membrane-io)
 - [Pricing](https://getmembrane.com/pricing)
+- [Blog](https://getmembrane.com/articles/all)
+- [GitHub](https://github.com/membrane-io)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-**Email:** kin@apievangelist.com
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Membrane: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/membrane/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
